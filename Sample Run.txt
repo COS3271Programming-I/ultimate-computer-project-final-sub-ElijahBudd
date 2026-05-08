@@ -1,0 +1,64 @@
+ULTIMATE Computer Menu
+------------------------------------------
+  1. Display App
+  2. Text Art App
+  3. Calculator App
+  4. Binary Calculator App
+  5. Encouragement App
+  6. Dice App
+  7. Oppish App
+  8. Fibonacci App
+  9. Double Factorial App
+  0. Exit
+------------------------------------------
+Enter your choice (0-9): 9
+Enter an integer (1-20): 5
+5!! = 15
+------------------------------------------
+  1. Display App
+  2. Text Art App
+  3. Calculator App
+  4. Binary Calculator App
+  5. Encouragement App
+  6. Dice App
+  7. Oppish App
+  8. Fibonacci App
+  9. Double Factorial App
+  0. Exit
+------------------------------------------
+Enter your choice (0-9): 1
+Two things are infinite: the universe and human stupidity;
+             and I'm not sure about the universe.
+	-Albert Einstein
+------------------------------------------
+  1. Display App
+  2. Text Art App
+  3. Calculator App
+  4. Binary Calculator App
+  5. Encouragement App
+  6. Dice App
+  7. Oppish App
+  8. Fibonacci App
+  9. Double Factorial App
+  0. Exit
+------------------------------------------
+Enter your choice (0-9): 6
+Enter (roll) to roll the dice: roll
+Die 1: 4
+Die 2: 2
+6
+Roll again? (y/n): n
+------------------------------------------
+  1. Display App
+  2. Text Art App
+  3. Calculator App
+  4. Binary Calculator App
+  5. Encouragement App
+  6. Dice App
+  7. Oppish App
+  8. Fibonacci App
+  9. Double Factorial App
+  0. Exit
+------------------------------------------
+Enter your choice (0-9): 0
+Succesfully exited the ULTIMATE Computer.
